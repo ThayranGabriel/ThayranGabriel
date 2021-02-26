@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/QPj223q/banner-image.png" align="right" alt="banner-image"></a>
+<img <style padding-right: 50px;> src="https://www.imagemhost.com.br/images/2021/02/26/banner-image.png" align="right" alt="banner-image"></a>
 
 
 <p align="left"> 
