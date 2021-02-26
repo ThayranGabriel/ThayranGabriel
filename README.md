@@ -1,4 +1,4 @@
-<img <style padding-right: 50px;> src="https://www.imagemhost.com.br/images/2021/02/26/banner-image.png" align="right" alt="banner-image"></a>
+<img src="https://www.imagemhost.com.br/images/2021/02/26/banner-image.png" align="right" alt="banner-image.png" border="0" />
 
 
 <p align="left"> 
