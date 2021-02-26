@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  Olá, me chamo Thayran Gabriel, Tenho 17 anos, Atualmente estou cursando o ensino médio integrado de um curso técnico de desenvolvimento web.
+  Olá, me chamo Thayran Gabriel, Tenho 17 anos, Atualmente estou <br> cursando o ensino médio integrado de um curso técnico de desenvolvimento web.
 </p>
 
 <p align="left">
