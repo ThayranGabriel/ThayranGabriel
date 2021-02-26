@@ -1,20 +1,20 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, me chamo Thayran Gabriel, Tenho 17 anos, Atualmente estou cursando o ensino médio integrado de um curso técnico de desenvolvimento web.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: 
+  HTML, CSS, JS
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>VScode, Photoshop, Figma, Git e Github</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Caso queira me contratar (ou bater um papo) me chama em qualquer lugar :)  ⤵️
 </p>
 
 <p align="left">
