@@ -1,8 +1,7 @@
-<img src="https://www.imagemhost.com.br/images/2021/02/26/banner-image.png" align="right" alt="banner-image.png" border="0" />
-
+<img src="https://www.imagemhost.com.br/images/2021/02/26/banner-image.png" width="100px" align"right" alt="banner-image.png" border="0" />
 
 <p align="left"> 
-  Olá, me chamo Thayran Gabriel, Tenho 17 anos, Atualmente estou <br> cursando o ensino médio integrado de um curso técnico de desenvolvimento web...
+  Olá, me chamo Thayran Gabriel, Tenho 17 anos, Atualmente estou <br> cursando o ensino médio integrado de um curso técnico de desenvolvimento web..
 </p>
 
 <p align="left">
