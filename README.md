@@ -1,4 +1,4 @@
-<a href="https://ibb.co/QPj223q"><img width="300px" src="https://i.ibb.co/8r4WWLR/banner-image.png" align="right" alt="banner-image" border="0"></a>
+<a href="https://ibb.co/QPj223q"><img width="200px" src="https://i.ibb.co/8r4WWLR/banner-image.png" align="right" alt="banner-image" border="0"></a>
 
 <p align="left"> 
   Olá, me chamo Thayran Gabriel, Tenho 17 anos, Atualmente estou <br> cursando o ensino médio integrado de um curso técnico de desenvolvimento web..
