@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
+  💻 Tecnologias: 
   HTML, CSS, JS
 </p>
 
