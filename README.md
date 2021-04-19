@@ -1,20 +1,20 @@
 <a href="https://ibb.co/QPj223q"><img width="200px" src="https://i.ibb.co/8r4WWLR/banner-image.png" align="right" alt="banner-image" border="0"></a>
 
 <p align="left"> 
-  Olá, me chamo Thayran Gabriel, Tenho 17 anos, Atualmente estou <br> cursando o ensino médio integrado de um curso técnico de desenvolvimento web..
+  Hello, my name is Thayran Gabriel, I am 17 years old, I am currently attending high school integrated with a technical course in web development ...
 </p>
 
 <p align="left">
-  💻 Tecnologias: 
+  💻 Technologies: 
   HTML, CSS, JS
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VScode, Photoshop, Figma, Git e Github</strong>
+  💼 Tools: <strong>VScode, Photoshop, Figma, Git e Github</strong>
 </p>
 
 <p align="left">
-  💌 Caso queira me contratar (ou bater um papo) me chama em qualquer lugar :)  ⤵️
+  📲 My website: <a href="https://thayrangabriel.com">Click Here</a>
 </p>
 
 <p align="left">
