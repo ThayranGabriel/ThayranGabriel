@@ -6,7 +6,7 @@
 
 <p align="left">
   💻 Technologies: 
-  HTML, CSS, JS
+  HTML, CSS, JS, PHP, MySQL
 </p>
 
 <p align="left">
