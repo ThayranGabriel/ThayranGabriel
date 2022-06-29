@@ -6,15 +6,15 @@
 
 <p align="left">
   💻 Technologies: 
-  HTML, CSS, JS, PHP, MySQL
+  HTML, CSS, JS, PHP, SQL SERVER, C#, .NET, VUE and TYPESCRIPT
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VScode, Photoshop, Figma, Git e Github</strong>
+  💼 Tools: <strong>VScode, Photoshop, Bitbucket, Jira, Slack, Figma, Git and Github</strong>
 </p>
 
 <p align="left">
-  📲 My website: <a href="https://thayrangabriel.com">Click Here</a>
+  📲 My website: <a href="http://thayrangabriel.me/mywebsite/">Click Here</a>
 </p>
 
 <p align="left">
