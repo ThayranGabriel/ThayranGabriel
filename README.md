@@ -2,7 +2,7 @@
 <!-- <a href="https://ibb.co/QPj223q"><img width="200px" src="https://i.ibb.co/8r4WWLR/banner-image.png" align="right" alt="banner-image" border="0"></a> -->
 
 <p align="left"> 
-  Hello, my name is thayran, I'm 18 years old computer technician for internet and graduating in software engineering, currently working as a fullstack developer
+  Hello, my name is thayran, I'm 18 years old computer technician for internet and graduating in <br> software engineering, currently working as a fullstack developer
 </p>
 
 <p align="left">
