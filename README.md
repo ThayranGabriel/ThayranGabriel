@@ -1,4 +1,5 @@
- <!-- <a href="https://ibb.co/QPj223q"><img width="200px" src="https://i.ibb.co/8r4WWLR/banner-image.png" align="right" alt="banner-image" border="0"></a> -->
+<p align="center">
+<!-- <a href="https://ibb.co/QPj223q"><img width="200px" src="https://i.ibb.co/8r4WWLR/banner-image.png" align="right" alt="banner-image" border="0"></a> -->
 
 <p align="left"> 
   Hello, my name is thayran, I'm 18 years old computer technician for internet and graduating in software engineering, currently working as a fullstack developer
@@ -35,3 +36,4 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thayran-gabriel-machado-deusedino-1870681b3/" /></a>
 
 </p>  
+</p> 
