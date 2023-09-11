@@ -33,9 +33,9 @@
 <br><br>
 
 ## 📊 Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrintThayranGabriel)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThayranGabriel)](https://git.io/streak-stats)
 
-[![Thiago Moregola's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrintThayranGabriel&theme=react-dark&bg_color=0a0c10&hide_border=true)](#)
+[![Thiago Moregola's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThayranGabriel&theme=react-dark&bg_color=0a0c10&hide_border=true)](#)
 <br><br>
 
 ## 💻 Workspace Spec
@@ -45,5 +45,5 @@
 <br><br>
 
 ## ❤ Views and Followers
-[![Profile Views](https://komarev.com/ghpvc/?username=PrintThayranGabriel)](https://github.com/PrintThayranGabriel)
+[![Profile Views](https://komarev.com/ghpvc/?username=ThayranGabriel)](https://github.com/ThayranGabriel)
 [![Github Followers](https://img.shields.io/github/followers/PrintThayranGabrie?label=Followers&style=social)](https://github.com/PrintThayranGabrie)
