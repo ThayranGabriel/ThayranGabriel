@@ -32,12 +32,6 @@
 ![ChatGPT](https://img.icons8.com/color/48/chatgpt.png)
 <br><br>
 
-## 📊 Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThayranGabriel)](https://git.io/streak-stats)
-
-[![Thiago Moregola's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThayranGabriel&theme=react-dark&bg_color=0a0c10&hide_border=true)](#)
-<br><br>
-
 ## 💻 Workspace Spec
 [![GPU](https://img.shields.io/badge/NVIDIA-Geforce_RTX_3060-76B9008?style=for-the-badge&logo=nvidia&logoColor=white)](#)
 [![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
