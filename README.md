@@ -40,4 +40,4 @@
 
 ## ❤ Views and Followers
 [![Profile Views](https://komarev.com/ghpvc/?username=ThayranGabriel)](https://github.com/ThayranGabriel)
-[![Github Followers](https://img.shields.io/github/followers/PrintThayranGabrie?label=Followers&style=social)](https://github.com/PrintThayranGabrie)
+[![Github Followers](https://img.shields.io/github/followers/ThayranGabriel?label=Followers&style=social)](https://github.com/ThayranGabrie)
