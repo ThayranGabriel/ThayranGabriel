@@ -30,7 +30,7 @@ Languages ​​& Technologies: `React`, `Java`, `AWS`, `Spring`, `Next.Js` \
 [**ATTA**](https://atta.com.vc/) • 7 months \
 Languages ​​& Technologies: `Vue`, `C#`, `.NET`\
 <br/>
-
+<br/>
 Please find me on [LinkedIn](https://www.linkedin.com/in/thayran-gabriel/) for a more detailed description of my work experience, education and certification.
 <br/>
 
