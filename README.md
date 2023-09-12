@@ -9,27 +9,33 @@
 🏡 Brazilian, living in SampaCity - SP
 <br><br>
 
-## 📱 Contact and Social Media
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/thayran-gabriel/)
-[![Email](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Microsoft&link=mailto:thiago.moregola@outlook.com)](mailto:mailto:thayran.dev@gmail.com)
-<br><br>
-
 ## 🔧 Languages and tools
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=moregola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/moregola)
 
-![VisualStudio](https://img.icons8.com/fluency/48/visual-studio.png)
-![VSCode](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
-![Dotnet](https://img.icons8.com/color/48/net-framework.png)
-![SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png)
-![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)
-![MySQL](https://img.icons8.com/fluency/48/mysql-logo.png)
-![MongoDb](https://img.icons8.com/color/48/mongodb.png)
-![Docker](https://img.icons8.com/fluency/48/docker.png)
-![NodeJs](https://img.icons8.com/color/48/nodejs.png)
-![Azure](https://img.icons8.com/fluency/48/azure-1.png)
-![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
-![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
-![ChatGPT](https://img.icons8.com/color/48/chatgpt.png)
+
+
+## 🪜 Experiences 
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="ATTA" src="https://i.ibb.co/ZmbSczZ/rounded-in-photoretrica.png"/>](https://atta.com.br/)
+
+**Full Stack Developer Jr** \
+[**ATTA**](https://atta.com.vc/) • 7 months \
+Languages ​​& Technologies: `Vue`, `C#`, `.NET`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://i.ibb.co/FB67CLv/rounded-in-photoretrica-1.png"/>](https://www.quintoandar.com.br)
+
+**Software Engineer Jr** \
+[**Quinto Andar**](https://nubank.com.br/) • current job \
+Languages ​​& Technologies: `React`, `Java`, `AWS`, `Spring`, `Next.Js` \
+<br/>
+<br/>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/thayran-gabriel/) for a more detailed description of my work experience, education and certification.
+<br/>
+
+
 <br><br>
 
 ## 💻 Workspace Spec
