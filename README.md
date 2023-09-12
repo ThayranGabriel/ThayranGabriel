@@ -27,7 +27,7 @@ Languages ​​& Technologies: `Vue`, `C#`, `.NET`\
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://i.ibb.co/FB67CLv/rounded-in-photoretrica-1.png"/>](https://www.quintoandar.com.br)
 
 **Software Engineer Jr** \
-[**Quinto Andar**](https://nubank.com.br/) • current job \
+[**Quinto Andar**](https://quintoandar.com.br) • current job \
 Languages ​​& Technologies: `React`, `Java`, `AWS`, `Spring`, `Next.Js` \
 <br/>
 <br/>
