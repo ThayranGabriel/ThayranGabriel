@@ -23,7 +23,6 @@
 [**Quinto Andar**](https://quintoandar.com.br) • current job \
 Languages ​​& Technologies: `React`, `Java`, `AWS`, `Spring`, `Next.Js` \
 <br/>
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="ATTA" src="https://i.ibb.co/ZmbSczZ/rounded-in-photoretrica.png"/>](https://atta.com.br/)
 
