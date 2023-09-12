@@ -17,19 +17,19 @@
 ## 🪜 Experiences 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="ATTA" src="https://i.ibb.co/ZmbSczZ/rounded-in-photoretrica.png"/>](https://atta.com.br/)
-
-**Full Stack Developer Jr** \
-[**ATTA**](https://atta.com.vc/) • 7 months \
-Languages ​​& Technologies: `Vue`, `C#`, `.NET`\
-<br/>
-
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://i.ibb.co/FB67CLv/rounded-in-photoretrica-1.png"/>](https://www.quintoandar.com.br)
 
 **Software Engineer Jr** \
 [**Quinto Andar**](https://quintoandar.com.br) • current job \
 Languages ​​& Technologies: `React`, `Java`, `AWS`, `Spring`, `Next.Js` \
 <br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="ATTA" src="https://i.ibb.co/ZmbSczZ/rounded-in-photoretrica.png"/>](https://atta.com.br/)
+
+**Full Stack Developer Jr** \
+[**ATTA**](https://atta.com.vc/) • 7 months \
+Languages ​​& Technologies: `Vue`, `C#`, `.NET`\
 <br/>
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/thayran-gabriel/) for a more detailed description of my work experience, education and certification.
