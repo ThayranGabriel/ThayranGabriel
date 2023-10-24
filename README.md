@@ -10,7 +10,7 @@
 <br><br>
 
 ## 🔧 Languages and tools
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=moregola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/moregola)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayranGabriel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/moregola)
 
 
 
