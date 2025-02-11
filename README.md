@@ -3,14 +3,14 @@
 <br>
 
 ## 🙋‍♂️ About me
-🔭 I’m currently working with *C# .Net*, *Java *, *TS *, *React and Vue* <br>
-🌱 I’m currently update *React* <br>
-💻 Junior Fullstack Developer <br>
+🔭 I’m currently working with *Java*, *SpringBoot* , *PostgreeSQL*  and *AWS*<br>
+🌱 I’m currently update *SpringBoot* <br>
+💻 Junior Backend Developer <br>
 🏡 Brazilian, living in SampaCity - SP
 <br><br>
 
 ## 🔧 Languages and tools
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayranGabriel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/moregola)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayranGabriel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)]([https://github.com/moregola](https://github.com/ThayranGabriel))
 
 
 
@@ -33,15 +33,6 @@ Languages ​​& Technologies: `Vue`, `C#`, `.NET`\
 <br/>
 Please find me on [LinkedIn](https://www.linkedin.com/in/thayran-gabriel/) for a more detailed description of my work experience, education and certification.
 <br/>
-
-
-<br><br>
-
-## 💻 Workspace Spec
-[![GPU](https://img.shields.io/badge/NVIDIA-Geforce_RTX_3060-76B9008?style=for-the-badge&logo=nvidia&logoColor=white)](#)
-[![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
-[![SO](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-<br><br>
 
 ## ❤ Views and Followers
 [![Profile Views](https://komarev.com/ghpvc/?username=ThayranGabriel)](https://github.com/ThayranGabriel)
